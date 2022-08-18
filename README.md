@@ -101,3 +101,5 @@ You are required to submit the following for review:
 
 https://lizbailey75.github.io/Work-Day-Scheduler/
 
+![image](https://user-images.githubusercontent.com/108904662/185474051-a643f518-ec30-44f7-9838-14e05479c4fc.png)
+
